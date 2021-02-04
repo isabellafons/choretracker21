@@ -56,6 +56,9 @@
         1,
         1,
         null,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/isabellafons/Desktop/CarnegieMellon_Spring_21/373/choretrack/lab5-choretracker-starter/app/controllers/application_controller.rb": [
@@ -311,6 +314,6 @@
         0
       ]
     },
-    "timestamp": 1612407904
+    "timestamp": 1612408000
   }
 }
