@@ -36,6 +36,8 @@
     "coverage": {
       "/Users/isabellafons/Desktop/CarnegieMellon_Spring_21/373/choretrack/lab5-choretracker-starter/app/models/chore.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/isabellafons/Desktop/CarnegieMellon_Spring_21/373/choretrack/lab5-choretracker-starter/app/models/application_record.rb": [
@@ -45,9 +47,13 @@
       ],
       "/Users/isabellafons/Desktop/CarnegieMellon_Spring_21/373/choretrack/lab5-choretracker-starter/app/models/task.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/isabellafons/Desktop/CarnegieMellon_Spring_21/373/choretrack/lab5-choretracker-starter/app/models/child.rb": [
+        1,
+        1,
         1,
         null,
         null
@@ -305,6 +311,6 @@
         0
       ]
     },
-    "timestamp": 1612406676
+    "timestamp": 1612407904
   }
 }
